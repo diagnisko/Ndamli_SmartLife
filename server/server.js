@@ -138,10 +138,37 @@ const createRemindersTable = () => {
   });
 };
 
-createPharmaciesTable();
-createMedicamentsTable();
-createRemindersTable();
-seedPharmaciesTable();
+const createUsersTable = () => {
+  const sql = `
+    CREATE TABLE IF NOT EXISTS users (
+      id INT AUTO_INCREMENT PRIMARY KEY,
+      name VARCHAR(255) NOT NULL,
+      email VARCHAR(255) UNIQUE NOT NULL,
+      password_hash VARCHAR(255) NOT NULL,
+      role VARCHAR(50) DEFAULT 'user',
+      avatar VARCHAR(255),
+      created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+      updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
+    )
+  `;
+  db.query(sql, (err) => {
+    if (err) console.error("❌ Erreur création table users:", err);
+    else console.log("✅ Table users prête");
+  });
+};
+
+// Initialize tables after database is ready
+const initializeTables = () => {
+  setTimeout(() => {
+    createUsersTable();
+    createPharmaciesTable();
+    createMedicamentsTable();
+    createRemindersTable();
+    seedPharmaciesTable();
+  }, 1000); // Wait 1 second for database creation
+};
+
+initializeTables();
 
 app.get("/", (req, res) => res.json({ message: "🚀 Ndamli SmartLife API OK" }));
 
