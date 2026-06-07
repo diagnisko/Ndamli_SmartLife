@@ -1,0 +1,4960 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-05-15T22:47:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/191911728",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Daouda Dia",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4426445,
+          14.7465264
+        ]
+      },
+      "id": "way/191911728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/206509892",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie S. Souhaibou Mbacke",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4469134,
+          14.7018672
+        ]
+      },
+      "id": "way/206509892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/207599375",
+        "addr:street": "rue Gt 50 angle 65",
+        "amenity": "pharmacy",
+        "dispensing": "no",
+        "healthcare": "pharmacy",
+        "name": "Khalifa Ababacar Sy",
+        "source": "bing; survey",
+        "source:date": "2013-02-28",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4539217,
+          14.6843198
+        ]
+      },
+      "id": "way/207599375"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/208435496",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "diva shop",
+        "shop": "clothes",
+        "source": "bing;survey",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4576677,
+          14.6905728
+        ]
+      },
+      "id": "way/208435496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/289044616",
+        "addr:city": "Dakar",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie de la gendarmerie",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4458382,
+          14.6897021
+        ]
+      },
+      "id": "way/289044616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/299621241",
+        "amenity": "pharmacy",
+        "check_date": "2026-01-09",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Stella",
+        "opening_hours": "Mo-Sa 08:30-20:30",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+221 33 860 32 32"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4749932,
+          14.7038057
+        ]
+      },
+      "id": "node/299621241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/334997229",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "SE (sénégal équip )",
+        "source": "bing;survey",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4578143,
+          14.6903914
+        ]
+      },
+      "id": "way/334997229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/353720893",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Mohamed",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.44374,
+          14.7008764
+        ]
+      },
+      "id": "way/353720893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/420821457",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "dispensing": "no",
+        "healthcare": "pharmacy",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4498599,
+          14.7530777
+        ]
+      },
+      "id": "way/420821457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/423874947",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie MOTA",
+        "phone": "+221 33 820 64 64",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4664239,
+          14.7518837
+        ]
+      },
+      "id": "way/423874947"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/423874948",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie SABARA",
+        "phone": "+221 33 820 90 95",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4697591,
+          14.7501235
+        ]
+      },
+      "id": "way/423874948"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/423874949",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie VICTOIRE",
+        "phone": "+221 33 820 84 38",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4711121,
+          14.7487972
+        ]
+      },
+      "id": "way/423874949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/423878526",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "PHARMACIE AL MAHDI",
+        "phone": "338209430",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4684353,
+          14.7583021
+        ]
+      },
+      "id": "way/423878526"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/423878527",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Allhou Akbar",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4740587,
+          14.7603307
+        ]
+      },
+      "id": "way/423878527"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/423878528",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "PHARMACIE PAPE KEBA THIAM",
+        "phone": "338206050",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4657338,
+          14.7580606
+        ]
+      },
+      "id": "way/423878528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/423878529",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie CHEIKH IBRAHIMA DIALLO",
+        "phone": "33 820 70 73",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4724469,
+          14.7552744
+        ]
+      },
+      "id": "way/423878529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/423878530",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Dr ABDOU MBENGUE",
+        "phone": "33 820 68 19",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4676001,
+          14.7547891
+        ]
+      },
+      "id": "way/423878530"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/423878531",
+        "addr:city": "Dakar",
+        "addr:street": "Route de l'Aéroport ( S.L.L)",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie MAME Ndiaré",
+        "opening_hours": "24/7",
+        "payment:cash": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4776206,
+          14.7571353
+        ]
+      },
+      "id": "way/423878531"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/423878532",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie NAFISSA",
+        "phone": "33 820 40 68",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.463885,
+          14.7499727
+        ]
+      },
+      "id": "way/423878532"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/423882658",
+        "amenity": "pharmacy",
+        "name": "Pharmacie DIAM ATHIE",
+        "phone": "33 820 49 15",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4521334,
+          14.7601756
+        ]
+      },
+      "id": "way/423882658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/423882660",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie DU BIEN ETRE",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4561602,
+          14.7527521
+        ]
+      },
+      "id": "way/423882660"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/423882662",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Mame Anta Sy",
+        "phone": "33 820 80 77",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4621376,
+          14.7541312
+        ]
+      },
+      "id": "way/423882662"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/436363519",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4448012,
+          14.7470631
+        ]
+      },
+      "id": "node/436363519"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/485491767",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "source": "bing",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4523183,
+          14.68988
+        ]
+      },
+      "id": "way/485491767"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/542454292",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Sokhna Fatima",
+        "source": "bing",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4429369,
+          14.6867624
+        ]
+      },
+      "id": "way/542454292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/553101843",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Pharmacie Kermel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4300683,
+          14.6701108
+        ]
+      },
+      "id": "node/553101843"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/553101847",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie du Guet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4300082,
+          14.6689567
+        ]
+      },
+      "id": "node/553101847"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/554250997",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Pharmacy de la République"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4352079,
+          14.6649803
+        ]
+      },
+      "id": "node/554250997"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/554251098",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Mandela"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4351736,
+          14.6626636
+        ]
+      },
+      "id": "node/554251098"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/593790884",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4693727,
+          14.7043033
+        ]
+      },
+      "id": "node/593790884"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/622365167",
+        "addr:city": "Ouakam",
+        "addr:housenumber": "Cité Assemblée",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Rokya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4941587,
+          14.7304522
+        ]
+      },
+      "id": "node/622365167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/656481967",
+        "amenity": "pharmacy",
+        "name": "PHARMACIE NATIONALE D'APPROVISIONNEMENT",
+        "source": "survey",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4386219,
+          14.7199279
+        ]
+      },
+      "id": "way/656481967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/660784952",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Guigon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4371975,
+          14.6691829
+        ]
+      },
+      "id": "node/660784952"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/734783648",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "source": "survey",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4616474,
+          14.7139594
+        ]
+      },
+      "id": "way/734783648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/823731767",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Kuky"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4616546,
+          14.7139251
+        ]
+      },
+      "id": "node/823731767"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1125063084",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Seynabou Diagne",
+        "phone": "338602162"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4827613,
+          14.7257051
+        ]
+      },
+      "id": "node/1125063084"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1359422275",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Almadies Ngor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.5128446,
+          14.7464009
+        ]
+      },
+      "id": "node/1359422275"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1499800097",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Pharmacie HLM Grand Médine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4507899,
+          14.7565164
+        ]
+      },
+      "id": "node/1499800097"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1596282886",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Mota",
+        "name:fr": "Pharmacie Mota"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4662983,
+          14.7518743
+        ]
+      },
+      "id": "node/1596282886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1769300539",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Mermoz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4714693,
+          14.7035876
+        ]
+      },
+      "id": "node/1769300539"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2049402057",
+        "amenity": "pharmacy",
+        "designation": "URGENCE DENTISTE",
+        "healthcare": "pharmacy",
+        "source": "CABINETDENTAIRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.465022,
+          14.7370554
+        ]
+      },
+      "id": "node/2049402057"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2051411873",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Boroom Daradji",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4574067,
+          14.7064608
+        ]
+      },
+      "id": "node/2051411873"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2072962767",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie l'Emmanuel",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4555623,
+          14.7076736
+        ]
+      },
+      "id": "node/2072962767"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2136289683",
+        "amenity": "pharmacy",
+        "dispensing": "no",
+        "healthcare": "pharmacy",
+        "name": "Cap Santé",
+        "source": "bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4524544,
+          14.7023739
+        ]
+      },
+      "id": "node/2136289683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2162829346",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Baraka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4294351,
+          14.7592614
+        ]
+      },
+      "id": "node/2162829346"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2175161489",
+        "addr:city": "Guele Tapée",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Elhadji Tamsir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4573626,
+          14.6828633
+        ]
+      },
+      "id": "node/2175161489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2178597726",
+        "addr:street": "rue GT 60 X GT 49",
+        "amenity": "pharmacy",
+        "dispensing": "no",
+        "email": "taifour1@orange.sn",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Soumbedioune",
+        "source": "bing",
+        "source:date": "2013-02-28"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4569785,
+          14.678856
+        ]
+      },
+      "id": "node/2178597726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2179686974",
+        "amenity": "pharmacy",
+        "dispensing": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4563094,
+          14.741523
+        ]
+      },
+      "id": "node/2179686974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2187329575",
+        "addr:city": "HLM Fass",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Cephas",
+        "phone": "33 823 26 39",
+        "source": "bing;survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4547869,
+          14.6933648
+        ]
+      },
+      "id": "node/2187329575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2188340365",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Dabakh malick"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4555618,
+          14.7046683
+        ]
+      },
+      "id": "node/2188340365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2271246303",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Pharmacie Boisson",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4281631,
+          14.6704929
+        ]
+      },
+      "id": "node/2271246303"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2271246304",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Pharmacie Fahd",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4287943,
+          14.6711687
+        ]
+      },
+      "id": "node/2271246304"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2399920473",
+        "amenity": "pharmacy",
+        "dispensing": "no",
+        "healthcare": "pharmacy",
+        "name": "Mame Diarra Bousso"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4365709,
+          14.7517129
+        ]
+      },
+      "id": "node/2399920473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2448227960",
+        "amenity": "pharmacy",
+        "name": "Pharmacie de Patte d'Oie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4457193,
+          14.7417545
+        ]
+      },
+      "id": "node/2448227960"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2522379493",
+        "addr:city": "Dakar",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "LEOPOLD SEDAR SENGOHRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4502942,
+          14.7505835
+        ]
+      },
+      "id": "node/2522379493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2568648324",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Daya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4625468,
+          14.7097001
+        ]
+      },
+      "id": "node/2568648324"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2630106177",
+        "amenity": "pharmacy",
+        "dispensing": "no",
+        "healthcare": "pharmacy",
+        "name": "Touba Mbacké"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4446063,
+          14.6979414
+        ]
+      },
+      "id": "node/2630106177"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2641989077",
+        "amenity": "pharmacy",
+        "dispensing": "no",
+        "healthcare": "pharmacy",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4355649,
+          14.669529
+        ]
+      },
+      "id": "node/2641989077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2837099993",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Mame Oumy Gueye"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4671251,
+          14.7171683
+        ]
+      },
+      "id": "node/2837099993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2837102452",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Mere Marie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4654836,
+          14.7224209
+        ]
+      },
+      "id": "node/2837102452"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2919548419",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Touba",
+        "source": "bing:survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4340644,
+          14.7369641
+        ]
+      },
+      "id": "node/2919548419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3045955163",
+        "addr:city": "Dakar",
+        "addr:street": "Mamelles Cité Magistrats",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "drive_through": "no",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Atlantique",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:visa": "yes",
+        "phone": "+221 33 860 24 24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4993946,
+          14.7299363
+        ]
+      },
+      "id": "node/3045955163"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3164258889",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Saint-Pierre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.464667,
+          14.7123587
+        ]
+      },
+      "id": "node/3164258889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3213509766",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie de la Renaissance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4910511,
+          14.7203691
+        ]
+      },
+      "id": "node/3213509766"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3215501325",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Darabis",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4597965,
+          14.7072057
+        ]
+      },
+      "id": "node/3215501325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3286274887",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie du Centre Aéré"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4624743,
+          14.7596224
+        ]
+      },
+      "id": "node/3286274887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3381011268",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Sokhna Bousso"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4876661,
+          14.7221786
+        ]
+      },
+      "id": "node/3381011268"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3424698328",
+        "amenity": "pharmacy",
+        "name": "Pharmacie du Royaume Sibuk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.443322,
+          14.7599832
+        ]
+      },
+      "id": "node/3424698328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3424698419",
+        "amenity": "pharmacy",
+        "check_date": "2024-11-17",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Arc-en-Ciel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.509741,
+          14.7388589
+        ]
+      },
+      "id": "node/3424698419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3454109869",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Ouest Foire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4695488,
+          14.7448363
+        ]
+      },
+      "id": "node/3454109869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3463516804",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4699592,
+          14.7104002
+        ]
+      },
+      "id": "node/3463516804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3482272582",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Océan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4705965,
+          14.7005344
+        ]
+      },
+      "id": "node/3482272582"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3594972718",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Nouvelle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4625085,
+          14.7051648
+        ]
+      },
+      "id": "node/3594972718"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3742560928",
+        "amenity": "pharmacy",
+        "name": "Pharmacie Cheikh Saliou MBACKE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4486312,
+          14.7427063
+        ]
+      },
+      "id": "node/3742560928"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4039215892",
+        "addr:street": "Rue GY-27",
+        "amenity": "pharmacy",
+        "name": "Pharmacie Sainte-Face"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4561975,
+          14.7446391
+        ]
+      },
+      "id": "node/4039215892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4039215989",
+        "amenity": "pharmacy",
+        "name": "Pharmacie Fatou Ideu Si"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4588689,
+          14.7433972
+        ]
+      },
+      "id": "node/4039215989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4039216089",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Habi Sidiki"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4380562,
+          14.7571288
+        ]
+      },
+      "id": "node/4039216089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4039216189",
+        "amenity": "pharmacy",
+        "name": "Pharmacie Yacine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4394802,
+          14.7570722
+        ]
+      },
+      "id": "node/4039216189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4075352076",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Les Dunes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4377496,
+          14.7357136
+        ]
+      },
+      "id": "node/4075352076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4075391722",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Abdourahmane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4244182,
+          14.7379093
+        ]
+      },
+      "id": "node/4075391722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4075391723",
+        "amenity": "pharmacy",
+        "name": "Pharmacie CAPA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4321979,
+          14.7192665
+        ]
+      },
+      "id": "node/4075391723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4075391724",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie de la Cité"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4208302,
+          14.7350391
+        ]
+      },
+      "id": "node/4075391724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4075391726",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie HANN PECHEURS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4264306,
+          14.7289853
+        ]
+      },
+      "id": "node/4075391726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4075391727",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie HLM Maristes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4245661,
+          14.7402084
+        ]
+      },
+      "id": "node/4075391727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4075391728",
+        "amenity": "pharmacy",
+        "name": "Pharmacie Mouhamadoul Amine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4355272,
+          14.7205506
+        ]
+      },
+      "id": "node/4075391728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4075391729",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Naby Rassou PSL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4274881,
+          14.7421008
+        ]
+      },
+      "id": "node/4075391729"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4075391730",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Al Kabir",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4217302,
+          14.7382054
+        ]
+      },
+      "id": "node/4075391730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4075391732",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Couro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4314125,
+          14.7389755
+        ]
+      },
+      "id": "node/4075391732"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4075431903",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Zahra Mariste"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4251667,
+          14.742567
+        ]
+      },
+      "id": "node/4075431903"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4075431904",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4263499,
+          14.7034113
+        ]
+      },
+      "id": "node/4075431904"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4075431905",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie La Rocade"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4380551,
+          14.6978676
+        ]
+      },
+      "id": "node/4075431905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4075431906",
+        "amenity": "pharmacy",
+        "name": "Pharmacie Marina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4297154,
+          14.7079835
+        ]
+      },
+      "id": "node/4075431906"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4075431907",
+        "amenity": "pharmacy",
+        "name": "Pharmacie Potou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.435113,
+          14.70739
+        ]
+      },
+      "id": "node/4075431907"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4075431908",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Radja"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4267915,
+          14.7340295
+        ]
+      },
+      "id": "node/4075431908"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4076032211",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Derklé"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4520711,
+          14.7267488
+        ]
+      },
+      "id": "node/4076032211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4076032212",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie El Ibrahiama Niass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4452195,
+          14.7254803
+        ]
+      },
+      "id": "node/4076032212"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4076032214",
+        "amenity": "pharmacy",
+        "name": "Pharmacie Nourou Dareyni"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4502286,
+          14.7261684
+        ]
+      },
+      "id": "node/4076032214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4076047641",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Bourguiba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4507182,
+          14.7181018
+        ]
+      },
+      "id": "node/4076047641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4076047642",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Les Allées Khalifa Ababacar Sy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4556399,
+          14.7167646
+        ]
+      },
+      "id": "node/4076047642"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4076047643",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Sacré Coeur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4538458,
+          14.7185464
+        ]
+      },
+      "id": "node/4076047643"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4076050079",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie La Miséricorde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4569376,
+          14.7246579
+        ]
+      },
+      "id": "node/4076050079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4076056882",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Salam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4519244,
+          14.7223718
+        ]
+      },
+      "id": "node/4076056882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4076056956",
+        "addr:street": "Avenue du Président Habib Bourguiba",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie du Carrefour Castor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4476253,
+          14.7217079
+        ]
+      },
+      "id": "node/4076056956"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4076389789",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Cheikhoul Khadim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4626982,
+          14.7212547
+        ]
+      },
+      "id": "node/4076389789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4076411083",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Seydina Limamoulaye Al Makhdi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4574067,
+          14.7186146
+        ]
+      },
+      "id": "node/4076411083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4076417845",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Terminus Liberté 5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4584213,
+          14.7223069
+        ]
+      },
+      "id": "node/4076417845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4076423954",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Liberté"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4554095,
+          14.7131134
+        ]
+      },
+      "id": "node/4076423954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4076442713",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Conseil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.46469,
+          14.7368772
+        ]
+      },
+      "id": "node/4076442713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4076447427",
+        "amenity": "pharmacy",
+        "name": "Pharmacie Sud Foire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4688312,
+          14.7394466
+        ]
+      },
+      "id": "node/4076447427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4076452835",
+        "amenity": "pharmacy",
+        "name": "Pharmacie Anarogil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4721111,
+          14.7329676
+        ]
+      },
+      "id": "node/4076452835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4076457154",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Manata"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4704455,
+          14.7301899
+        ]
+      },
+      "id": "node/4076457154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4076458078",
+        "addr:street": "Rue BIS-14",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Biscuiterie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4516659,
+          14.7122266
+        ]
+      },
+      "id": "node/4076458078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4076458079",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Diadji Abdou Diodio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4517842,
+          14.7088945
+        ]
+      },
+      "id": "node/4076458079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4076458080",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Phamacie El Hadji Mamadou Seydou Ba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4497044,
+          14.7048544
+        ]
+      },
+      "id": "node/4076458080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4076458081",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Grand-Dakar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4517671,
+          14.7053502
+        ]
+      },
+      "id": "node/4076458081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4076458082",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Kader Diop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.446756,
+          14.7106801
+        ]
+      },
+      "id": "node/4076458082"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4076458083",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Machallah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4472187,
+          14.7050767
+        ]
+      },
+      "id": "node/4076458083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4076458084",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Mariama Mbacke"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4530608,
+          14.7144117
+        ]
+      },
+      "id": "node/4076458084"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4076458085",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Ouagou Niaye"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.446978,
+          14.7074381
+        ]
+      },
+      "id": "node/4076458085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4076458086",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Tijani Mouhamed El Habib"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4531858,
+          14.7095534
+        ]
+      },
+      "id": "node/4076458086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4076458087",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Bass Ak Bara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4471802,
+          14.7166556
+        ]
+      },
+      "id": "node/4076458087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4076461527",
+        "amenity": "pharmacy",
+        "name": "Pharmacie Adja Sokhna Fall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4718864,
+          14.7290739
+        ]
+      },
+      "id": "node/4076461527"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4076469840",
+        "amenity": "pharmacy",
+        "name": "Pharmacie Lahad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4676922,
+          14.7294289
+        ]
+      },
+      "id": "node/4076469840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4076473601",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Camp Leclerc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4624414,
+          14.7294275
+        ]
+      },
+      "id": "node/4076473601"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4076480394",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Nassou Keita"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.469275,
+          14.7258654
+        ]
+      },
+      "id": "node/4076480394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4076504016",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie de La Paix"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4599989,
+          14.7286827
+        ]
+      },
+      "id": "node/4076504016"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4076515468",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Cheikhna Cheikh Saad Bou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4635149,
+          14.724727
+        ]
+      },
+      "id": "node/4076515468"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4076523027",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Adji Maguette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.458948,
+          14.7313532
+        ]
+      },
+      "id": "node/4076523027"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4076540409",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Résidence S Malick Dieye"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4643692,
+          14.698965
+        ]
+      },
+      "id": "node/4076540409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4076543516",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Ahmet Bathily"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.443229,
+          14.711844
+        ]
+      },
+      "id": "node/4076543516"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4076543517",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Ben Tally"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.449594,
+          14.7137574
+        ]
+      },
+      "id": "node/4076543517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4076543518",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Coope"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4495187,
+          14.7094409
+        ]
+      },
+      "id": "node/4076543518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4076543519",
+        "amenity": "pharmacy",
+        "drive_through": "yes",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Corniche HLM V"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4423633,
+          14.7082584
+        ]
+      },
+      "id": "node/4076543519"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4076543520",
+        "amenity": "pharmacy",
+        "name": "Pharmacie Gigasanté"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4426688,
+          14.7182716
+        ]
+      },
+      "id": "node/4076543520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4076543521",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie La Clémence"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4460154,
+          14.7135016
+        ]
+      },
+      "id": "node/4076543521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4076543522",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Mamadou Racine Sy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4435991,
+          14.7037505
+        ]
+      },
+      "id": "node/4076543522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4076543524",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Sokhna Rokhaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4442009,
+          14.7157309
+        ]
+      },
+      "id": "node/4076543524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4076543885",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Birago Diop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4619778,
+          14.6988854
+        ]
+      },
+      "id": "node/4076543885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4076547248",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Keur Jaraaf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4598017,
+          14.7002727
+        ]
+      },
+      "id": "node/4076547248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4076550414",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie des Allées"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4563841,
+          14.6975013
+        ]
+      },
+      "id": "node/4076550414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4076552222",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie El Mansour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.456383,
+          14.7024416
+        ]
+      },
+      "id": "node/4076552222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4076555897",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Le Parcours"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4604208,
+          14.7041881
+        ]
+      },
+      "id": "node/4076555897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4076556633",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Selma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4678944,
+          14.7036965
+        ]
+      },
+      "id": "node/4076556633"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4076559156",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Sedami"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4697253,
+          14.7053712
+        ]
+      },
+      "id": "node/4076559156"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4076561888",
+        "amenity": "pharmacy",
+        "check_date": "2026-04-16",
+        "healthcare": "pharmacy",
+        "level": "1",
+        "name": "Néfertari",
+        "opening_hours": "Mo-Su 08:30-21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4743596,
+          14.6935244
+        ]
+      },
+      "id": "node/4076561888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4076562220",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Aimé Césaire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4717122,
+          14.6928868
+        ]
+      },
+      "id": "node/4076562220"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4076562291",
+        "addr:street": "Route de la Corniche Ouest",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Fann Hock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4617456,
+          14.6797786
+        ]
+      },
+      "id": "node/4076562291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4076568892",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Ndoss"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4608001,
+          14.6911131
+        ]
+      },
+      "id": "node/4076568892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4076569073",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Actuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4605564,
+          14.6930914
+        ]
+      },
+      "id": "node/4076569073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4076571627",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Point E",
+        "phone": "338245604"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4580211,
+          14.695011
+        ]
+      },
+      "id": "node/4076571627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4076573501",
+        "addr:city": "Dakar",
+        "addr:street": "Avenue Cheikh Anta Diop",
+        "amenity": "pharmacy",
+        "name": "Pharmacie La Signara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4637151,
+          14.694685
+        ]
+      },
+      "id": "node/4076573501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4077890543",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Diaraaf Mbor Ndoye"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4566613,
+          14.7277248
+        ]
+      },
+      "id": "node/4077890543"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4079639359",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Bel-Air"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4324948,
+          14.6926647
+        ]
+      },
+      "id": "node/4079639359"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4079639360",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Hann Yarakh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4305446,
+          14.7241346
+        ]
+      },
+      "id": "node/4079639360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4079639361",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie T.A.Barro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4372597,
+          14.6875797
+        ]
+      },
+      "id": "node/4079639361"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4083068640",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Le Kalounaye Diamorale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4487575,
+          14.7237156
+        ]
+      },
+      "id": "node/4083068640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4083357094",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Leopold Sedar Senghor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4449191,
+          14.7064981
+        ]
+      },
+      "id": "node/4083357094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4090295910",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Alliance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4249571,
+          14.7349467
+        ]
+      },
+      "id": "node/4090295910"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4111998989",
+        "amenity": "pharmacy",
+        "check_date": "2024-09-18",
+        "healthcare": "pharmacy",
+        "name": "Madina Tool Mounawara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4813,
+          14.7082617
+        ]
+      },
+      "id": "node/4111998989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4233935024",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Ama Ndiaye",
+        "phone": "+221 33 820 99 88"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4642449,
+          14.7492913
+        ]
+      },
+      "id": "node/4233935024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4241764939",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Seydina Issa Laye"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4302731,
+          14.766159
+        ]
+      },
+      "id": "node/4241764939"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4242198717",
+        "amenity": "pharmacy",
+        "name": "Seydina Mouhammad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4337533,
+          14.7628213
+        ]
+      },
+      "id": "node/4242198717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4251100106",
+        "addr:country": "SN",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Cité Asecna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4901917,
+          14.729233
+        ]
+      },
+      "id": "node/4251100106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4259611440",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Ceerno Yaal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.45352,
+          14.7547888
+        ]
+      },
+      "id": "node/4259611440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4271991636",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Seydou Nourou Tall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4338546,
+          14.7598215
+        ]
+      },
+      "id": "node/4271991636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4299360090",
+        "addr:housenumber": "5443",
+        "addr:postcode": "221",
+        "addr:street": "liberté 5",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Madiba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4611201,
+          14.7237096
+        ]
+      },
+      "id": "node/4299360090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4334062045",
+        "amenity": "pharmacy",
+        "dispensing": "CHEIKH MASSAMBA MBACKE",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4344385,
+          14.7534643
+        ]
+      },
+      "id": "node/4334062045"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4339703863",
+        "addr:city": "Dakar",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie VDN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4696181,
+          14.722267
+        ]
+      },
+      "id": "node/4339703863"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4342514546",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Mouhammadoul Chafiyou",
+        "phone": "33 835 84 47"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4313811,
+          14.7567303
+        ]
+      },
+      "id": "node/4342514546"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4370871439",
+        "amenity": "pharmacy",
+        "name": "Pharmacie Residence II"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4398231,
+          14.7607114
+        ]
+      },
+      "id": "node/4370871439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4379511899",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Bousso Dramé"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4440722,
+          14.7561183
+        ]
+      },
+      "id": "node/4379511899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4387327161",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Populaire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4361418,
+          14.7572011
+        ]
+      },
+      "id": "node/4387327161"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4387387017",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4372025,
+          14.7630775
+        ]
+      },
+      "id": "node/4387387017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4418979709",
+        "addr:city": "Dakar",
+        "amenity": "pharmacy",
+        "name": "Pharmacie Shelter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4591099,
+          14.7407529
+        ]
+      },
+      "id": "node/4418979709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4488885243",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie du Front de terre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4468394,
+          14.7269789
+        ]
+      },
+      "id": "node/4488885243"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4545546688",
+        "amenity": "pharmacy",
+        "name": "Pharmacie Vital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4355946,
+          14.6730995
+        ]
+      },
+      "id": "node/4545546688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4545547035",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Avicenne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4356137,
+          14.6749026
+        ]
+      },
+      "id": "node/4545547035"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4545547041",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie de la Poste"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4464348,
+          14.6776802
+        ]
+      },
+      "id": "node/4545547041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4547725165",
+        "addr:city": "Dakar",
+        "addr:housenumber": "km 1",
+        "addr:postcode": "6405",
+        "addr:street": "Avenue Cheikh Anta Diop",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Parfumerie beauté",
+        "opening_hours": "Mo-Fr 09:00-13:00,14:30-21:00; Sa 09:00-13:00",
+        "phone": "+221 33 823 03 05"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4563292,
+          14.6877313
+        ]
+      },
+      "id": "node/4547725165"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4549849158",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Diogoye"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.5091057,
+          14.736087
+        ]
+      },
+      "id": "node/4549849158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4681551015",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Mame Fatou Diop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4498039,
+          14.6781611
+        ]
+      },
+      "id": "node/4681551015"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4698110432",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.447926,
+          14.7588147
+        ]
+      },
+      "id": "node/4698110432"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4705173339",
+        "amenity": "pharmacy",
+        "name": "Pharmacie Espace Résidence"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4366593,
+          14.7404515
+        ]
+      },
+      "id": "node/4705173339"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4710559834",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "théâtre sorano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4400466,
+          14.6665067
+        ]
+      },
+      "id": "node/4710559834"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4712168056",
+        "amenity": "pharmacy",
+        "name": "Pharmacie de la Corniche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4462936,
+          14.7628503
+        ]
+      },
+      "id": "node/4712168056"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4712187261",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Mere Bity"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4390761,
+          14.7642857
+        ]
+      },
+      "id": "node/4712187261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4712187262",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4434106,
+          14.7636321
+        ]
+      },
+      "id": "node/4712187262"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4712396806",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4501689,
+          14.7612442
+        ]
+      },
+      "id": "node/4712396806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4737924523",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Laty Dior",
+        "name:en": "Pharmacie Laty Dior",
+        "name:fr": "Pharmacie Laty Dior"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.470898,
+          14.7160527
+        ]
+      },
+      "id": "node/4737924523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4747525929",
+        "addr:street": "Route de la Mosquée de Ngor",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Seydina Mouhamed",
+        "name:fr": "Pharmacie Seydina Mouhamed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.5147011,
+          14.7491575
+        ]
+      },
+      "id": "node/4747525929"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4758410664",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Tamsir oumar Sall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4488802,
+          14.6848509
+        ]
+      },
+      "id": "node/4758410664"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4783620622",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie du centenaire",
+        "name:fr": "Pharmacie du centenaire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4455746,
+          14.6869968
+        ]
+      },
+      "id": "node/4783620622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4801775308",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4453731,
+          14.7265414
+        ]
+      },
+      "id": "node/4801775308"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4810716830",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Al-Amin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4718448,
+          14.7190521
+        ]
+      },
+      "id": "node/4810716830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4818848419",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Sérigné Babacar Sy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4320349,
+          14.7544064
+        ]
+      },
+      "id": "node/4818848419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4818853021",
+        "amenity": "pharmacy",
+        "name": "Lamine Konaté"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4510754,
+          14.7415392
+        ]
+      },
+      "id": "node/4818853021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4875915521",
+        "amenity": "pharmacy",
+        "name": "Pharmacie Salsy",
+        "name:fr": "Pharmacie Salsy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4678895,
+          14.7471609
+        ]
+      },
+      "id": "node/4875915521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4909199691",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Rahma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4462399,
+          14.7348635
+        ]
+      },
+      "id": "node/4909199691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4931371026",
+        "addr:housenumber": "33",
+        "addr:street": "Avenue du Président Lamine Gueye",
+        "amenity": "pharmacy",
+        "name": "Pharmacie Africaine",
+        "phone": "+221 338234468"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4375865,
+          14.6747787
+        ]
+      },
+      "id": "node/4931371026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4931377122",
+        "addr:street": "Rue des Dardanellles",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "DARDANELLES",
+        "phone": "338211520"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4414023,
+          14.6720094
+        ]
+      },
+      "id": "node/4931377122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4931399821",
+        "addr:housenumber": "90",
+        "addr:street": "Rue Gallandou Diouf",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "ISLAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4406134,
+          14.6721104
+        ]
+      },
+      "id": "node/4931399821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4931399824",
+        "addr:street": "Rue Diaraf Mamadou Assane Paye",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Sandaga",
+        "phone": "+221 338228883"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4396009,
+          14.6698132
+        ]
+      },
+      "id": "node/4931399824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4949700821",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Hann Maristes",
+        "phone": "+221 33 832 18 44"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4391649,
+          14.7245638
+        ]
+      },
+      "id": "node/4949700821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4949700823",
+        "amenity": "pharmacy",
+        "check_date": "2024-09-26",
+        "healthcare": "pharmacy",
+        "name": "Abou Houreyra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4790335,
+          14.7109996
+        ]
+      },
+      "id": "node/4949700823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4956709974",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Mabousso Thiam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.455462,
+          14.7285208
+        ]
+      },
+      "id": "node/4956709974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4956827010",
+        "amenity": "pharmacy",
+        "name": "Pharmacie El Hadji Haidra et Awa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.461575,
+          14.7414793
+        ]
+      },
+      "id": "node/4956827010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4956827011",
+        "amenity": "pharmacy",
+        "name": "Pharmacie Maodo Malick"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4618722,
+          14.739572
+        ]
+      },
+      "id": "node/4956827011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4956827012",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Sonatel 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4655295,
+          14.7393427
+        ]
+      },
+      "id": "node/4956827012"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4956827013",
+        "amenity": "pharmacy",
+        "name": "Pharmacie Scat Urbam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4605299,
+          14.7360273
+        ]
+      },
+      "id": "node/4956827013"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4956827014",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Ahmed Achou Tidjani"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4560701,
+          14.7364504
+        ]
+      },
+      "id": "node/4956827014"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4956827015",
+        "amenity": "pharmacy",
+        "name": "Phamacie Amine Kané"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4538254,
+          14.7415233
+        ]
+      },
+      "id": "node/4956827015"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4956841238",
+        "amenity": "pharmacy",
+        "name": "Pharmacie Cite Millionnaire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4479778,
+          14.74095
+        ]
+      },
+      "id": "node/4956841238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4956841239",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Arafat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4519535,
+          14.7360503
+        ]
+      },
+      "id": "node/4956841239"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4956841240",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Khar Yalla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4555082,
+          14.7333747
+        ]
+      },
+      "id": "node/4956841240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4956981353",
+        "amenity": "pharmacy",
+        "name": "Pharmacie Woré Fall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4446001,
+          14.7381504
+        ]
+      },
+      "id": "node/4956981353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4956981354",
+        "amenity": "pharmacy",
+        "name": "Pharmacie Mignel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4483805,
+          14.7378287
+        ]
+      },
+      "id": "node/4956981354"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4956981357",
+        "amenity": "pharmacy",
+        "name": "Pharmacie Thierno Tylere"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4420853,
+          14.7350348
+        ]
+      },
+      "id": "node/4956981357"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4956981358",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Mouna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4464113,
+          14.7318474
+        ]
+      },
+      "id": "node/4956981358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4956981359",
+        "amenity": "pharmacy",
+        "name": "Pharmacie Mactar Diaw"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4428303,
+          14.7280961
+        ]
+      },
+      "id": "node/4956981359"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4956981360",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Coin santé"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4491854,
+          14.7313496
+        ]
+      },
+      "id": "node/4956981360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4956981361",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Bagdad Khar Yalla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4520567,
+          14.7295539
+        ]
+      },
+      "id": "node/4956981361"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4956981362",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Maty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.456432,
+          14.7305861
+        ]
+      },
+      "id": "node/4956981362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4956981363",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Djeddah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4505303,
+          14.732589
+        ]
+      },
+      "id": "node/4956981363"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4957380866",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Mabousso Thiam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4552356,
+          14.7294833
+        ]
+      },
+      "id": "node/4957380866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5034596522",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4525927,
+          14.7269468
+        ]
+      },
+      "id": "node/5034596522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5037069283",
+        "addr:housenumber": "14",
+        "addr:street": "route des Almadies",
+        "amenity": "pharmacy",
+        "description": "pharmacie conseil diététique",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Diogoye",
+        "phone": "00221338207041"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.5091171,
+          14.7361007
+        ]
+      },
+      "id": "node/5037069283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5155169126",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Teranga",
+        "name:en": "Pharmacie Teranga",
+        "name:fr": "Pharmacie Teranga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4331484,
+          14.6672977
+        ]
+      },
+      "id": "node/5155169126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5179056590",
+        "addr:city": "Guele Tapée",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Penda sarr",
+        "opening_hours": "08:00-23:00",
+        "phone": "78 300 50 50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4599685,
+          14.681716
+        ]
+      },
+      "id": "node/5179056590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5179058648",
+        "addr:city": "Guele Tapée",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Mbotty Pom",
+        "opening_hours": "08:00-23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4550237,
+          14.6817425
+        ]
+      },
+      "id": "node/5179058648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5179078086",
+        "addr:city": "Guele Tapée",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Continental Khas",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4539776,
+          14.6843941
+        ]
+      },
+      "id": "node/5179078086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5179079311",
+        "addr:city": "Fass",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Sham Fass",
+        "phone": "33 822 14 61"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4542481,
+          14.6859279
+        ]
+      },
+      "id": "node/5179079311"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5179083125",
+        "addr:city": "Fasse Paillote",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Fass Paillote"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4524602,
+          14.6928115
+        ]
+      },
+      "id": "node/5179083125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5179085263",
+        "addr:city": "Fass Delorme",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Salomon Fass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4548577,
+          14.6894163
+        ]
+      },
+      "id": "node/5179085263"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5179087824",
+        "addr:city": "Fass Delorme",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Seydi Djamil",
+        "phone": "33 842 74 16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4525943,
+          14.6898207
+        ]
+      },
+      "id": "node/5179087824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5179104447",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Keur Djimi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4498996,
+          14.6918408
+        ]
+      },
+      "id": "node/5179104447"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5179114355",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Dabakh Malick",
+        "opening_hours": "08:00-00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4442717,
+          14.694165
+        ]
+      },
+      "id": "node/5179114355"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5179118020",
+        "addr:city": "HLM Fass",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Serigne Modou Falilou Fall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.449622,
+          14.6946599
+        ]
+      },
+      "id": "node/5179118020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5213910570",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Serigne Saliou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4471111,
+          14.7553432
+        ]
+      },
+      "id": "node/5213910570"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5237951736",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Cité-Avion",
+        "phone": "338604258"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4844091,
+          14.7223821
+        ]
+      },
+      "id": "node/5237951736"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5238216587",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Ouakam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4871364,
+          14.7177471
+        ]
+      },
+      "id": "node/5238216587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5238216590",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Sokhna Bousso",
+        "phone": "338600223"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4881932,
+          14.726683
+        ]
+      },
+      "id": "node/5238216590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5238216594",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Mame Aby Thiaw",
+        "phone": "338605764"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4813991,
+          14.7230934
+        ]
+      },
+      "id": "node/5238216594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5245714453",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "pharmacie Yoffoise",
+        "phone": "338209095"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4664559,
+          14.7582747
+        ]
+      },
+      "id": "node/5245714453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5470971370",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Lead Pharma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4512112,
+          14.6962991
+        ]
+      },
+      "id": "node/5470971370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5489446527",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Xandar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4725164,
+          14.7511337
+        ]
+      },
+      "id": "node/5489446527"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5507790921",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Kawsara",
+        "name:fr": "Pharmacie Kawsara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4416315,
+          14.667593
+        ]
+      },
+      "id": "node/5507790921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5543615949",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4602634,
+          14.7041
+        ]
+      },
+      "id": "node/5543615949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5559081740",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Allees Canard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4329008,
+          14.6707135
+        ]
+      },
+      "id": "node/5559081740"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5564808793",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Diallo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4491475,
+          14.6884305
+        ]
+      },
+      "id": "node/5564808793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5566387783",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie moustarchida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.447358,
+          14.6904636
+        ]
+      },
+      "id": "node/5566387783"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5566400562",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie maimouna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4490585,
+          14.6884849
+        ]
+      },
+      "id": "node/5566400562"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5567748014",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "keur djim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4497742,
+          14.6918134
+        ]
+      },
+      "id": "node/5567748014"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5578100685",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Ouagou Niayes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4469016,
+          14.7074262
+        ]
+      },
+      "id": "node/5578100685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5604847216",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Ouagou Niayes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4469006,
+          14.7074269
+        ]
+      },
+      "id": "node/5604847216"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5728397982",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Colobane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4471467,
+          14.6918661
+        ]
+      },
+      "id": "node/5728397982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5786966529",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie coope"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.449505,
+          14.7094679
+        ]
+      },
+      "id": "node/5786966529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6127920069",
+        "amenity": "pharmacy",
+        "contact:phone": "33 832 78 03",
+        "healthcare": "pharmacy",
+        "horaire": "24h/24",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4179353,
+          14.7394524
+        ]
+      },
+      "id": "node/6127920069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6149721286",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "PLUSSS",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4319406,
+          14.7312836
+        ]
+      },
+      "id": "node/6149721286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6434340586",
+        "addr:street": "Rue KD 02",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Keur Damel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4558751,
+          14.7512056
+        ]
+      },
+      "id": "node/6434340586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6574355616",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Mame Fatou Ba",
+        "opening_hours": "24/7",
+        "operator": "privée",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4538503,
+          14.7002489
+        ]
+      },
+      "id": "node/6574355616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6905625263",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Mach-allah",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4474054,
+          14.7049259
+        ]
+      },
+      "id": "node/6905625263"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6957557389",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Pharmacie Mame Abdou Aziz SY Dabakh",
+        "operator": "Docteur SARR",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4404412,
+          14.7508425
+        ]
+      },
+      "id": "node/6957557389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6973650595",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie medina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4516787,
+          14.6830453
+        ]
+      },
+      "id": "node/6973650595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6973666075",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie du boulevard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4517033,
+          14.6875633
+        ]
+      },
+      "id": "node/6973666075"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6973813121",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Blaise Diagne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.449177,
+          14.6796626
+        ]
+      },
+      "id": "node/6973813121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7986194896",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Fatim Zahra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.448806,
+          14.6844648
+        ]
+      },
+      "id": "node/7986194896"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8202040974",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4494739,
+          14.7020523
+        ]
+      },
+      "id": "node/8202040974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8313359294",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Fann Hock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4618898,
+          14.6797699
+        ]
+      },
+      "id": "node/8313359294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8777848814",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Sidy Bouya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.473165,
+          14.721585
+        ]
+      },
+      "id": "node/8777848814"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8814841115",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Demba Koita"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4697627,
+          14.7112594
+        ]
+      },
+      "id": "node/8814841115"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9077048112",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Ngor Oasis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.5072218,
+          14.7487291
+        ]
+      },
+      "id": "node/9077048112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9919194907",
+        "addr:city": "Commune de Fann-Point E-Amitié",
+        "addr:housenumber": "Fann Point E",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Besse",
+        "opening_hours": "Mo-Sa 08:00-00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4626744,
+          14.7019338
+        ]
+      },
+      "id": "node/9919194907"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11179042645",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.5150106,
+          14.7408543
+        ]
+      },
+      "id": "node/11179042645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11524355890",
+        "amenity": "pharmacy",
+        "name": "Pharmacie de la piste"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4745025,
+          14.7135212
+        ]
+      },
+      "id": "node/11524355890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11524507207",
+        "amenity": "pharmacy",
+        "name": "Martin Luther king"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4719021,
+          14.7111925
+        ]
+      },
+      "id": "node/11524507207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12226308022",
+        "amenity": "pharmacy",
+        "name": "Cap vert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4369025,
+          14.6662205
+        ]
+      },
+      "id": "node/12226308022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12247769354",
+        "amenity": "pharmacy",
+        "name": "Mathilde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4838777,
+          14.7066863
+        ]
+      },
+      "id": "node/12247769354"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12335060080",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Masha Allah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4576817,
+          14.7089692
+        ]
+      },
+      "id": "node/12335060080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12475521858",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Vital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4312687,
+          14.6671289
+        ]
+      },
+      "id": "node/12475521858"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12618219950",
+        "amenity": "pharmacy",
+        "name": "Pharmacie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.3999289,
+          14.6681754
+        ]
+      },
+      "id": "node/12618219950"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12738472701",
+        "amenity": "pharmacy",
+        "name": "Pharmacie khélépha diakité",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4303037,
+          14.7536822
+        ]
+      },
+      "id": "node/12738472701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13357592072",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie Médina Province"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4529212,
+          14.6752015
+        ]
+      },
+      "id": "node/13357592072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13813896101",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4825887,
+          14.7151528
+        ]
+      },
+      "id": "node/13813896101"
+    }
+  ]
+}
